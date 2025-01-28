@@ -9,5 +9,5 @@
 -[]Error managament (w/sentry)
 -[] Routing/Image page (parallel route)
 -[]delete button (w/ server action)
--[]Analytics
--[]Artelimiting (upstash)
+-[]Analytics (posthog)
+-[]Ratelimiting (upstash)
